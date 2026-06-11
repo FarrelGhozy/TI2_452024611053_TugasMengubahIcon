@@ -75,6 +75,14 @@ Aplikasi memiliki halaman utama **scrollable** dengan konten dummy:
 
 ---
 
+## 🎥 Demo Aplikasi
+
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+> Upload file `demo.mp4` ke folder `assets/` untuk menampilkan video.
+
+---
+
 <p align="center">
   <i>Tugas Pemrograman Android — Semester 5</i>
 </p>
