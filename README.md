@@ -55,6 +55,10 @@ aplikasinya scrolling doang isinya konten dummy:
 
 <video src="assets/demo.mp4" controls width="100%"></video>
 
+> kalau video nggak muncul, klik aja gambar di bawah ⬇️
+
+[![Tonton Demo](assets/iconHasil.jpeg)](assets/demo.mp4)
+
 ---
 
 ## 🛠️ Teknologi
